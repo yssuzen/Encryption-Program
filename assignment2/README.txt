@@ -1,7 +1,5 @@
 Author: Yavuz Selim Suzen
 
-Student ID: 10121583
-
 Description of the program: The program will prompt the user to indicate whether they wish to encrypt a readable message (the plaintext), or decrypt an already encrypted sequence of numbers (the ciphertext) back to its readable form.
 
 List of files: a2-posted.c and README.txt
